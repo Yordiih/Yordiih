@@ -7,13 +7,13 @@ and the web applications that run on them.
 
 ---
 
-## 🔧 What I do
+## What I do
 
 - **Platform development:** full-stack web apps with React, Node.js, and TypeScript (MERN stack)
 - **CI/CD & Automation:** building build, test, and deploy pipelines
 - **Infrastructure:** managing production VMs and cloud environments
 
-## 🧰 Tech stack
+## Tech stack
 
 **Full-Stack**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -35,6 +35,6 @@ and the web applications that run on them.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=black)
 
-## 📫 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/yordanos-hailu/) · [yordiih59@gmail.com](mailto:yordiih59@gmail.com)
